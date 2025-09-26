@@ -159,7 +159,7 @@ export default function PrivacyPolicy() {
               <p className="text-muted-foreground mb-4">For privacy-related questions or requests:</p>
               <ul className="list-disc pl-6 text-muted-foreground space-y-1">
                 <li><strong>Website:</strong> <a href="https://datasnapchart.com" className="text-primary hover:underline">https://datasnapchart.com</a></li>
-                <li><strong>Email:</strong> [Insert your contact email]</li>
+                <li><strong>Email:</strong> <a href="mailto:info@datasnapchart.com" className="text-primary hover:underline">info@datasnapchart.com</a></li>
               </ul>
             </section>
 

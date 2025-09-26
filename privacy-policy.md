@@ -96,7 +96,7 @@ We may update this Privacy Policy occasionally. We will notify users of signific
 
 For privacy-related questions or requests:
 - **Website:** https://datasnapchart.com
-- **Email:** [Insert your contact email]
+- **Email:** info@datasnapchart.com
 
 ## Data Protection Rights (GDPR/CCPA)
 
